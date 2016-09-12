@@ -15,4 +15,3 @@ At the time, even is the server is single thread, jobs are splitted by little ch
 	Listing a directory: `LISTFILES /directory/path`
 	
 	
-	"# multi-files-server" 
